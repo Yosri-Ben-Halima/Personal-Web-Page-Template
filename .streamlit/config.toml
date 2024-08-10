@@ -1,0 +1,8 @@
+[theme]
+primaryColor = "#FF4B4B"
+backgroundColor = "#ffffff" # General background color, applies to the main content area
+secondaryBackgroundColor = "#ffffff" # Sidebar background color
+textColor = "#31333F"
+font = "sans serif" # Options: "serif", "sans serif", "monospace"
+
+
