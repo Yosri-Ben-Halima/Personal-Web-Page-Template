@@ -24,11 +24,12 @@ pip install streamlit pillow requests beautifulsoup4
 
 2. **Customize the Content:**
 
-   - Update the profile picture by replacing `DSC_6406-modified.png` with your own image.
-   - Modify the title and subtitle in the main content section to reflect your own name and profession.
-   - Edit the "About Me" section with your own summary.
-   - Customize the skills list with your own skills in the `skills` variable.
-   - Add or modify the portfolio items in the "My Portfolio" section by updating the GitHub repository URLs.
+   - Update the profile `picture` and `resume` by the paths of your own image and resume files.
+   - Modify the `title` and `subtitle` in the main content section to reflect your own name and profession.
+   - Edit the `About Me` section with your own summary and contact links.
+   - Customize the `skills` and `interests` lists with your own skills and interests.
+   - Add or modify the portfolio items in the `My Portfolio` section by updating the GitHub repository URLs.
+   - Check for further personal changes.
 
 3. **Run the Web Page:**
 
@@ -63,9 +64,11 @@ To share your personal web page with others, you can deploy it using Streamlit C
 
 If you find any issues or have suggestions for improvements, feel free to open an issue or submit a pull request. Contributions are welcome!
 
-## License
+## Connect with Me
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-```
+Thank you for visiting my GitHub profile! Feel free to reach out if you have any questions or opportunities to collaborate. Let's connect and explore new possibilities together!
 
-This version reflects that the project was deployed using Streamlit Cloud. You can paste this directly into a Markdown cell.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Yosri%20Ben%20Halima-blue)](https://www.linkedin.com/in/yosri-ben-halima-3553a9221/)
+[![Twitter](https://img.shields.io/badge/Facebook-@Yosry%20Ben%20Hlima-navy)](https://www.facebook.com/NottherealYxsry)
+[![Instagram](https://img.shields.io/badge/Instagram-@yosrybh-orange)](https://www.instagram.com/yosrybh/)
+[![Email](https://img.shields.io/badge/Email-yosri.benhalima@ept.ucar.tn-white)](yosri.benhalima@ept.ucar.tn)
