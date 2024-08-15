@@ -1,6 +1,6 @@
 # Personal Web Page Template
 
-This project is a customizable template for creating a personal web page using Streamlit. It is designed to showcase your portfolio, skills, and contact information in a clean and modern layout.
+This project is a customizable template for creating a personal web page using Streamlit. It is designed to showcase your portfolio, skills, and contact information in a clean and modern layout. [Click here to check my personal web page out!](osri-personal-web-page.streamlit.app/)
 
 ## Features
 
