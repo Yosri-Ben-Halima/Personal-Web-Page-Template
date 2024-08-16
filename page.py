@@ -417,9 +417,6 @@ with col2:
         mime="application/pdf"
     )
 
-# Optional: Add some spacing or styling if needed
-st.markdown("---")
-
 st.markdown('</div>', unsafe_allow_html=True)
 
 # Interests
@@ -482,6 +479,7 @@ st.markdown(
 )
 
 # Display interests in four columns
+st.markdown("---")
 st.markdown("## My Interests")
 st.markdown("---")
 
