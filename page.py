@@ -467,7 +467,6 @@ st.markdown(
         display: flex;
         justify-content: center;
         transition: background-color 0.3s ease, transform 0.3s ease;
-        cursor: pointer;
     }
     .interest-box:hover {
         background-color: #d6dae0;
