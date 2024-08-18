@@ -245,12 +245,13 @@ skills = [
     "Quantitative Analysis",
     "Stochastic Modeling",
     "Econometric Modeling",
-    "Excel",
+    #"Excel",
     "Stata",
     "Data Visualization",
     "Natural Language Processing",
     "SQL",
-    "SAS",
+    "Microsoft Power BI",
+    #"SAS",
     "Finance"
 ]
 
