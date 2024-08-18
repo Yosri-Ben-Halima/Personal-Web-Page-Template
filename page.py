@@ -195,7 +195,7 @@ st.markdown('<div id="contact">', unsafe_allow_html=True)
 st.markdown("""
 <div class="contact-box">
     <h4>About Me</h4>
-    <p class="summary">I am a multidisciplinary engineer with a passion for data science, AI, and quantitative analysis. My academic and professional journey has been centered around turning raw data into meaningful insights and solutions. I am constantly exploring new technologies and methodologies to enhance my skillset and stay at the forefront of the field.</p>
+    <p class="summary">I am a multidisciplinary engineer with a passion for Data Science, AI, and Quantitative Finance. My academic and professional journey has been centered around turning raw data into meaningful insights and solutions. I am constantly exploring new technologies and methodologies to enhance my skillset and stay at the forefront of the field.</p>
     <div class="contact-info">
         <div class="contact-info-column">
             <p><img src="https://img.icons8.com/ios-filled/50/000000/marker.png" width="25" class="icon"> Tunis, Tunisia</p>
