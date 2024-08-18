@@ -54,7 +54,7 @@ st.markdown("""
         padding: 20px;
         margin-top: 30px;
         border-radius: 10px;
-        background-color: #ffffff;
+        background-color: #F0F8FF;
         box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);
     }
     .contact-info {
