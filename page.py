@@ -105,9 +105,9 @@ st.markdown("""
             left: 0;
             width: 250px;
             height: 100vh;
-            background-color: #5d89b8;/*#54CFD4;*/
+            background-color: #54CFD4;
             padding: 20px;
-            box-shadow: 2px 0 5px rgba(0,0,0,0.1);
+            box-shadow: 5px 0 5px rgba(0,0,0,0.1);
             border-right: 1px solid #ddd;
             overflow-y: auto; /* Scroll if content overflows */
         }
