@@ -186,7 +186,7 @@ with cols[0]:
 # Place title and subtitle in the second column
 with cols[1]:
     st.markdown('<h1 class="title">Hi, I am Yosri Ben Halima 👋</h1>', unsafe_allow_html=True)
-st.markdown('<h2 class="subtitle">Data Scientist | AI Enthusiast | Quantitative Analyst | Multidisciplinary Engineering Graduate</h2>', unsafe_allow_html=True)
+st.markdown('<h2 class="subtitle">Data Scientist | Quantitative Researcher | Data Analyst | Multidisciplinary Engineering Graduate</h2>', unsafe_allow_html=True)
 
 
 st.markdown('<div id="contact">', unsafe_allow_html=True)
