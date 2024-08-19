@@ -246,7 +246,7 @@ skills = [
     "Stochastic Modeling",
     "Econometric Modeling",
     #"Excel",
-    "Stata",
+    "Time Series Analysis",
     "Data Visualization",
     "Natural Language Processing",
     "SQL",
