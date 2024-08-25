@@ -64,6 +64,10 @@ To share your personal web page with others, you can deploy it using Streamlit C
 
 If you find any issues or have suggestions for improvements, feel free to open an issue or submit a pull request. Contributions are welcome!
 
+## License
+
+This project is licensed under the MIT License - see the LICENSE file for details.
+
 ## Connect with Me
 
 Thank you for visiting my GitHub profile! Feel free to reach out if you have any questions or opportunities to collaborate. Let's connect and explore new possibilities together!
