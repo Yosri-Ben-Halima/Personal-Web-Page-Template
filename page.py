@@ -240,19 +240,17 @@ st.markdown('<div id="skills">', unsafe_allow_html=True)
 # List of skills
 skills = [
     "Data Science",
+    "Data Analysis & Visualization",
+    "Databases (MySQL, MongoDB, Redis, etc)",
     "Machine Learning",
-    "Python",
-    "Quantitative Analysis",
-    "Stochastic Modeling",
-    "Econometric Modeling",
-    #"Excel",
-    "Time Series Analysis",
-    "Data Visualization",
+    "Deep Learning",
     "Natural Language Processing",
-    "Databases (MySQL, MongoDB)",
+    "Advanced Python Skills",
+    "Quantitative Analysis",
+    "Applied Mathematics",
+    "Stochastic & Econometric Modeling",
+    "Econometric Modeling",
     "Tutoring (Maths, Physics)",
-    #"SAS",
-    "Finance"
 ]
 
 # Custom CSS for styling the skills
