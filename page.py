@@ -243,14 +243,17 @@ skills = [
     "Data Analysis & Visualization",
     "Databases (MongoDB, Redis, etc)",
     "Machine Learning",
-    "Deep Learning",
-    "Natural Language Processing",
-    "Advanced Python Skills",
-    "Quantitative Analysis",
     "Applied Mathematics",
     "Stochastic Modeling",
     "Econometric Modeling",
     "Tutoring (Maths, Physics)",
+    "Deep Learning",
+    "Natural Language Processing",
+    "Advanced Python Skills",
+    "Quantitative Analysis",
+    "AWS Lambda",
+    "Git & GitHub",
+    "Crypto & Finance"
 ]
 
 # Custom CSS for styling the skills
