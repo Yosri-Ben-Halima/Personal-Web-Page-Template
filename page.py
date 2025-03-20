@@ -523,6 +523,6 @@ st.markdown('</div>', unsafe_allow_html=True)
 # Footer
 st.markdown("""
 <div class="footer">
-    © 2024 Yosri Ben Halima. All rights reserved.
+    © 2025 Yosri Ben Halima. All rights reserved.
 </div>
 """, unsafe_allow_html=True)
