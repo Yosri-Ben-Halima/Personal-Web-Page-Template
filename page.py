@@ -404,7 +404,7 @@ st.markdown("---")
 col1, col2 = st.columns([1, 3], vertical_alignment="center")
 
 with col1:
-    st.image(resume_thumbnail_path, width=150, use_column_width=False)
+    st.image(resume_thumbnail_path, width=150, use_container_width =False)
 
 with col2:
     st.markdown("""
