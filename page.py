@@ -241,14 +241,14 @@ st.markdown('<div id="skills">', unsafe_allow_html=True)
 skills = [
     "Data Science",
     "Data Analysis & Visualization",
-    "Databases (MySQL, MongoDB, Redis, etc)",
+    "Databases (MongoDB, Redis, etc)",
     "Machine Learning",
     "Deep Learning",
     "Natural Language Processing",
     "Advanced Python Skills",
     "Quantitative Analysis",
     "Applied Mathematics",
-    "Stochastic & Econometric Modeling",
+    "Stochastic Modeling",
     "Econometric Modeling",
     "Tutoring (Maths, Physics)",
 ]
