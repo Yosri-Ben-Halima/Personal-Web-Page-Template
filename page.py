@@ -181,7 +181,7 @@ cols = st.columns([1, 3],vertical_alignment="center")  # Adjust column widths as
 
 # Place image in the first column
 with cols[0]:
-    st.image("DSC_6406-modified.png", width=200, use_column_width=False, output_format='auto', caption=None, clamp=False, channels="RGB")
+    st.image("DSC_6406-modified.png", width=200, use_container_width=False, output_format='auto', caption=None, clamp=False, channels="RGB")
 
 # Place title and subtitle in the second column
 with cols[1]:
